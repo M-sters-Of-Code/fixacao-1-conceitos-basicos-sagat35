@@ -9,3 +9,4 @@
  * - A classe CalculaAluguelCarro deve ter um método estático chamado Calcular que recebe um int dias, um int quilometragemInicial, um int quilometragemFinal e retorna o valor total do aluguel
  */
 //PRIMEIRA REALIZADA
+//SEGUNDA REALIZADA
