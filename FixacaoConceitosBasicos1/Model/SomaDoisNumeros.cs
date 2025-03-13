@@ -14,3 +14,10 @@ namespace FixacaoConceitosBasicos1.Model
         }
     }
 }
+
+namespace FixacaoConceitosBasicos1
+{
+    class TesteSomaDoisNumeros
+    {
+    }
+}

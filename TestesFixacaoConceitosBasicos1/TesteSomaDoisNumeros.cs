@@ -11,12 +11,8 @@ namespace TestesFixacaoConceitosBasicos1
     public class TesteSomaDoisNumeros
     {
         [TestMethod]
-        private void TesteSoma()
-        {
-            int a = 1;
-            int b = 2;
-            int resultado = a + b;
-            Assert.AreEqual(SomaDoisNumeros.Somar(a, b), resultado);
+        public int Somar(int num1,int num2) {
+            return num1 + num2;
         }
     }
 }
